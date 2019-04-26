@@ -10,6 +10,15 @@ var controllers = {
             version: properties.version
         }
         res.json(aboutInfo);
+    },
+
+    list:  function(req, res){
+        var listaTags = {
+            id: '1',
+            tag: '000011112222333344447777'
+        }
+        res.json(listaTags);
+
     }
 };
 
