@@ -1,0 +1,19 @@
+{
+  "name": "flex-service-tags",
+  "version": "1.0.0",
+  "description": "Serviço para gerenciamento de tags RFID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifam-cthm/flex-service-tags.git"
+  },
+  "author": "Jonathas Silva dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifam-cthm/flex-service-tags/issues"
+  },
+  "homepage": "https://github.com/ifam-cthm/flex-service-tags#readme"
+}
